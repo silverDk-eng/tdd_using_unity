@@ -8,5 +8,5 @@ message("Project top : ${PROJECT}")
 
 # add_subdirectory(src)
 # add_subdirectory(test)
-add_subdirectory(unity.lib)
+add_subdirectory(unity_libraray)
 
