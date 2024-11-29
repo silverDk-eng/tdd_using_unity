@@ -50,3 +50,10 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+build/
+*.cmake
+*.ts
+*.make 
+*.marks
+
+unity_libraray/CMakeFiles/
